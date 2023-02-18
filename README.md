@@ -7,3 +7,5 @@ This is running on my RPi2 with Ubuntu Mate 2020 LTS Image + AdaFruit package in
 You should only have to edit your Home folder and sensor name in the script provided.
 
 Sincerly hope this helps other beginners like me. 
+
+PS: Do run this python script with sudo or equivalent super rights.
