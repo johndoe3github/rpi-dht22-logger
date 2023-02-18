@@ -1,9 +1,10 @@
 #!/usr/bin/env python
-#Here's a simple logging example that just logs to a file.
+#Here's a simple logging example that just logs to a file. (don't remeber where I found this)
 #In order, it creates a Logger instance, then a FileHandler and a Formatter. It attaches the Formatter to the FileHandler, then the FileHandler to the Logger.
 #20220206 Added a handler that writes to a file, making a new file at midnight and keeping 366 backups
-#20220208 20u11 python 3 = fixed print ""
+#20220208 20u11 update from python 2 to python 3 = fixed print ""
 #20230105 17u22 adapted for dht22 sensor (do install adafruit first)
+# Do run this python script with sudo or equivalent super rights.
 
 import logging
 import logging.handlers
