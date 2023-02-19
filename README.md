@@ -9,3 +9,5 @@ You should only have to edit your Home folder and sensor name in the script prov
 Sincerly hope this helps other beginners like me. 
 
 PS: Do run this python script with sudo or equivalent super rights.
+
+![20221209_161920_github](https://user-images.githubusercontent.com/125738856/219939867-0d7a88e8-5d66-4111-bfbb-3b674b3f513d.jpg)
